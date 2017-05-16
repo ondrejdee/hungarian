@@ -20,6 +20,6 @@ M-by-N cost matrix obtained as the Euclidean distance between two sets of random
 
 M-by-N cost matrix is simply obtained as: ```rand(M, N)```.
 
-![experiment 2](./speed_comparison/speed1.png "Experiment 2")
+![experiment 2](./speed_comparison/speed2.png "Experiment 2")
 
 
